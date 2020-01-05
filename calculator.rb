@@ -11,7 +11,7 @@ def difference()
   
 end
 
-def sum()
+def product()
   
 end
 
