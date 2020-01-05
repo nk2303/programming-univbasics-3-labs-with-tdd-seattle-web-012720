@@ -18,7 +18,7 @@ def product()
   return product
 end
 
-def sum()
-  sum = first_number + second_number
-  return sum
+def quotient()
+  quotient = first_number + second_number
+  return quotient
 end
