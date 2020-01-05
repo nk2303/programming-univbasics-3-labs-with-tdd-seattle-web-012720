@@ -2,25 +2,25 @@
 
 first_number = 2
 second_number = 3
-sum = sum(first_number + second_number)
-difference = difference(first_number - second_number)
+sum = first_number + second_number
+difference = first_number - second_number
 
-def sum()
-  sum = first_number + second_number
-  return sum
-end
+# def sum()
+#   sum = first_number + second_number
+#   return sum
+# end
 
-def difference()
-  difference = first_number - second_number
-  return difference
-end
+# def difference()
+#   difference = first_number - second_number
+#   return difference
+# end
 
-def product()
-  product = first_number * second_number
-  return product
-end
+# def product()
+#   product = first_number * second_number
+#   return product
+# end
 
-def quotient()
-  quotient = first_number / second_number
-  return quotient
-end
+# def quotient()
+#   quotient = first_number / second_number
+#   return quotient
+# end
